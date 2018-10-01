@@ -5,23 +5,11 @@ body {
   background-color:mistyrose;
 }
 
-#navbar {
-  padding: 8px;
-  background-color:lavenderblush;
-}
-
-#navbar a {
-  color: white;
-  margin-left: 6px;
-  font-size: 18px;
-  text-decoration:none;
-  padding: 12px 16px;
-  text-align:center;
-}
-
-#navbar a:hover {
-  background-color: #DB093D;
-}
+#navbar{ background-color:#FF0844;
+		margin:0;
+padding: 0;}
+#navbar a{ color:white; font-weight:bold;display:block;text-decoration:none;}
+#navbar a:hover{background-color:#DB093D;}
 
 #footer {
   position: fixed;
